@@ -4,6 +4,11 @@ Android Developer
 
 
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
 
 
 
