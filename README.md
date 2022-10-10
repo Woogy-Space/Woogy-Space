@@ -5,10 +5,10 @@ Android Developer
 
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ionic-blue?style=flat&logo=Ionic&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
 
 
 
