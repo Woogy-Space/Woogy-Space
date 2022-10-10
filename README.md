@@ -5,7 +5,7 @@ Android Developer
 
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=#E34F26"/>
+  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-Green?style=flat&logo=JavaScript&logoColor=white"/>
  </div>
