@@ -8,7 +8,7 @@ Android Developer
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
 
 
 
