@@ -1,6 +1,4 @@
-Android Developer
-=
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=222&section=header&text=Woogy%20Space&fontSize=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=222&section=header&text=Android%20Lover&fontSize=72)
 
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
