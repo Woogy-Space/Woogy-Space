@@ -1,8 +1,5 @@
 김형욱😎
 =
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=222&section=header&text=Android%20Lover&fontSize=72)
-
-
 <div align=center><h1>📚 STACKS 📚</h1></div>
  <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
