@@ -4,10 +4,11 @@ Android Developer
 
 
  <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
- 
- <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-Green?style=flat&logo=JavaScript&logoColor=white"/>
+ <div align="center">
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Green?style=flat&logo=JavaScript&logoColor=white"/>
+ </div>
  
  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=white"/>
