@@ -8,12 +8,16 @@ Android Developer
  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-Green?style=flat&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Android-Green?style=flat&logo=Android&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=white"/>
 
+ <img src="https://img.shields.io/badge/Firebase-Green?style=flat&logo=Firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=Figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio-black?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
 
 
 <!--
