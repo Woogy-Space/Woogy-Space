@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoogy-Space&count_bg=%23FF7878&title_bg=%23FF3737&icon=tinder.svg&icon_color=%23F3EBEB&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=#20BEAD&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **Woogy-Space/Woogy-Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
