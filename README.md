@@ -8,10 +8,15 @@
   
 </div>
 
-<div align=center><h1>📚 STACKS 📚</h1></div>
- <div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white"/>
+<div align=center><h4>📚 STACKS 📚</h4></div>  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ 🔥 Android 🔥 -3DDC84?style=flat&logo=Android&logoColor=white"/>  
+    
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin&Java-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white"/>
 </div>
  
 <div align="center">
@@ -26,12 +31,16 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </div>
 
+<div align=center><h4>🔨 TOOLS 🔨</h4></div>  
 <div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
+
