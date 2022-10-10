@@ -4,6 +4,7 @@
 <div align=right>  
     
 <a href="" target="_blank">블로그 개설 예정.</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=z15640)](https://solved.ac/z15640)
 <a href=mailto:woogy.space@gmail.com target="_blank"><img src="https://img.shields.io/badge/woogy.space@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoogy-Space&count_bg=%236CE5D8&title_bg=%2320BEAD&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   
@@ -50,8 +51,5 @@
 <div align=center>
     <br>
     <br>  
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogy&show_icons=true&theme=radical)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=z15640)](https://solved.ac/z15640)
 </div>
 
