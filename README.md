@@ -16,9 +16,9 @@ Android Developer
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=Figma&logoColor=white"/>
- <img src="https://img.shields.io/badge/Visual Studio-black?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
 
 
 <!--
