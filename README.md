@@ -3,8 +3,8 @@ Android Developer
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=222&section=header&text=Woogy%20Space&fontSize=72)
 
 
-📚MY STACK📚
  <div align="center">
+  <div>📚MY STACK📚</div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
  </div>
  <div align="center">
